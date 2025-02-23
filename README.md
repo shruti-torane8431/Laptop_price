@@ -1,4 +1,5 @@
 # Laptop_price
+
 This project analyzes a dataset of 11,768 laptop records, focusing on key specifications such as brand, processor, GPU, RAM, storage, screen size, battery life, weight, and price. The goal is to uncover trends and relationships between these features to gain insights into laptop pricing, performance, and market trends.
 
 📂 Dataset Information
